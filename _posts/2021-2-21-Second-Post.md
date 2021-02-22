@@ -1,6 +1,6 @@
 ---
 layout: test post please ignore
-title: tryhackme writeup
+title: Tryhackme Writeup
 ---
 
 Public profile: https://tryhackme.com/p/StevenMichelena
